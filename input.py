@@ -1,0 +1,5 @@
+name= input(" what is your name? ")
+age= input("age: ")
+score=input("what did you score? ")
+print(f"my name is {name} and i am {age}")
+print(f"my score is {80}")
